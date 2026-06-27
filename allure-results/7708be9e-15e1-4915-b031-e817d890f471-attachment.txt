@@ -1,0 +1,12 @@
+total no of rows  6
+Promise { <pending> }
+1
+Promise { <pending> }
+1
+Promise { <pending> }
+1
+Promise { <pending> }
+1
+Promise { <pending> }
+1
+-------------

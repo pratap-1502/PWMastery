@@ -1,0 +1,9 @@
+locator('.ws-table-all').first()
+count of headers  3
+no of rows are 7
+no of cells in each row  3
+no of cells in each row  3
+no of cells in each row  3
+no of cells in each row  3
+no of cells in each row  3
+no of cells in each row  3

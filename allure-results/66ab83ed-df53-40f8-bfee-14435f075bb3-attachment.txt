@@ -1,0 +1,43 @@
+rowscount2 22
+Australian Dollar (AUD)
+66.14
+Bahraini Dinar (BHD)
+250.58
+British Pound (GBP)
+124.93
+Canadian Dollar (CAD)
+66.73
+Chinese Yuan (CNY)
+13.95
+Danish Krone (DKK)
+14.45
+Euro (EUR)
+107.63
+Hong Kong Dollar (HKD)
+12.05
+Iraqi Dinar (IQD)
+0.07
+Japanese Yen (JPY)
+0.59
+Kuwaiti Dinar (KWD)
+306.10
+Omani Rial (OMR)
+245.76
+Pakistani Rupee (PKR)
+0.34
+Qatar Rial (QAR)
+25.91
+Saudi Arabian Riyal (SAR)
+25.17
+Singapore Dollar (SGD)
+73.06
+South African Rand (ZAR)
+5.76
+Swedish Krona (SEK)
+9.82
+Swiss Franc (CHF)
+116.83
+UAE Dirham (AED)
+25.78
+US Dollar (USD)
+94.70
