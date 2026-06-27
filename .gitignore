@@ -47,3 +47,8 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+
+allure-results/
+    *.json
+    *.txt
+    *.png
