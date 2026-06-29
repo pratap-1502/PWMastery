@@ -22,9 +22,6 @@ test-results/
 *.webm
 *.png
 
-# Environment variables
-.env
-.env.local
 
 # Logs
 logs/
